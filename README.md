@@ -1,2 +1,2 @@
 # Android_TellJokes
-just a small app for reading jokes
+just a small app for reading jokes.
